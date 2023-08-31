@@ -1,0 +1,11 @@
+body > footer {
+    background-color: #222;
+    color: #c7c7c7;
+    padding: 1em;
+    text-align: center;
+}
+
+body > footer a {
+    color: #fff;
+}
+
