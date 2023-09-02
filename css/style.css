@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
 body > footer {
     background-color: #246;
     color: #c7c7c7;
