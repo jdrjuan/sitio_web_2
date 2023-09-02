@@ -9,3 +9,19 @@ body > footer a {
     color: #fff;
 }
 
+.form-contacto {
+    /* border: 2px solid red; */
+    background-color: #c2c2c2;
+    padding: 1em;
+}
+
+.form-contacto .row {
+    padding: 7px;
+}
+
+.form-contacto label {
+    /* background-color: blue; */
+    width: 75px;
+    display: inline-block;
+    text-align: right;
+}
