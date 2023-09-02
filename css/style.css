@@ -13,6 +13,16 @@ body > footer a {
     color: #fff;
 }
 
+.main-heading {
+    background-color: hsl(210, 50%, 90%);
+    padding: 10px;
+    color: hsl(210, 50%, 5%);
+    text-align: center;
+    border: 10px solid hsl(210, 50%, 15%);
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+}
+
 .form-contacto {
     /* border: 2px solid red; */
     background-color: #c2c2c2;
