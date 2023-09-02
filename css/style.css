@@ -25,7 +25,9 @@ body > footer a {
 
 .form-contacto label {
     /* background-color: blue; */
-    width: 75px;
+    width: 90px;
     display: inline-block;
     text-align: right;
+    font-weight: bold;
+    color: #333;
 }
