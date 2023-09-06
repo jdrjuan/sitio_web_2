@@ -13,6 +13,34 @@ body > footer a {
     color: #fff;
 }
 
+.main-nav {
+    /* border: 4px solid blue; */
+    background-color: hsl(197, 94%, 19%);
+}
+
+.main-nav__list {
+    margin: 0;
+    /* border: 4px solid orange; */
+    list-style-type: none;
+    display: flex;
+    /* padding: 5px; */
+    /* gap: 5px; */
+    justify-content: center;
+}
+
+.main-nav__item {
+    /* border: 4px solid green; */
+    /* background-color: hsl(197, 94%, 19%); */
+    /* background-color: orange; */
+    padding: 10px;
+}
+
+.main-nav__link {
+    color: wheat;
+    text-decoration: none;
+    /* border: 4px solid orchid; */
+}
+
 .main-heading {
     background-color: hsl(210, 50%, 90%);
     padding: 10px;
