@@ -23,6 +23,11 @@ body > footer a {
     border-bottom-color: transparent;
 }
 
+.suscripcion {
+    background-color: #0004;
+    padding: 1em;
+}
+
 .form-contacto {
     /* border: 2px solid red; */
     background-color: hsl(210, 20%, 90%);
