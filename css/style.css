@@ -17,6 +17,10 @@ body > footer {
     text-align: center;
 }
 
+body > footer p {
+    margin: .7em 0;
+}
+
 body > footer a {
     color: #fff;
 }
