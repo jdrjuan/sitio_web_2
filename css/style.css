@@ -73,6 +73,10 @@ body > footer a {
     padding: 1em;
 }
 
+.suscripcion p:first-of-type {
+    margin-top: 0;
+}
+
 .form-contacto {
     /* border: 2px solid red; */
     background-color: hsl(210, 20%, 90%);
