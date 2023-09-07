@@ -6,7 +6,6 @@
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 80%;
     margin: 0 auto;
 }
 
@@ -98,4 +97,10 @@ body > footer a {
 
 .form-contacto p {
     font-style: italic;
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        width: 80%;
+    }
 }
