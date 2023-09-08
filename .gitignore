@@ -1,0 +1,14 @@
+# Carpetas
+img/productos/
+logs/
+temp/
+tmp/
+node_modules/
+
+
+# Archivos
+js/config-dev.js
+.env
+*.temp
+*.tmp
+*.log
