@@ -13,6 +13,10 @@ p {
     margin: 1em 0;
 }
 
+#fecha {
+    text-align: right;
+}
+
 body > footer {
     background-color: #246;
     color: #c7c7c7;
