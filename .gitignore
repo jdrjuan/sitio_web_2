@@ -3,6 +3,7 @@ img/productos/
 logs/
 temp/
 tmp/
+.vscode/
 node_modules/
 
 
